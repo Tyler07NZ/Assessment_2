@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Godzilla",
+    "location": "Tokyo Japan",
+    "films": "Godzilla Film Franchise"
+  },
+  {
+    "name": "King Kong",
+    "location": "Skull Island",
+    "films": "King Kong Film Franchise"
+  },
+  {
+    "name": "Jaws",
+    "location": "Amity Island",
+    "films": "Jaws Film Franchise"
+  },
+  {
+    "name": "Queen xenomorph",
+    "location": "LV426",
+    "films": "Alien Film Franchise"
+  },
+]
